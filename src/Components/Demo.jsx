@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import { copy, linkIcon, loader, tick } from "../assets";
 import { useLazyGetSummaryQuery } from "../Services/article";
-import { color } from "framer-motion";
 
 const Demo = () => {
   // RTK lazy query
