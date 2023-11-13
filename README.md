@@ -1,4 +1,4 @@
-# Sumz - Your Article Summarizer
+# Sumz - Your Article Summarizer :page_with_curl:
 
 Welcome to Sumz, your go-to article summarizer application that makes reading a breeze! Sumz allows you to generate concise summaries of articles by simply providing the URL of the webpage. Dive into the world of efficient information consumption with Sumz.
 
@@ -27,3 +27,6 @@ Welcome to Sumz, your go-to article summarizer application that makes reading a 
 ### API Integration
 - **OpenAI API**: Leveraging the power of OpenAI for article summarization.
 
+## Demo
+
+- Check out the live demo at :point_right: [Sumz](https://sumz-iota-three.vercel.app/)
